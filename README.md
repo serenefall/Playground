@@ -1,2 +1,2 @@
 # Playground
-Playground for learning languages and skills
+Practice to learn languages and skills
