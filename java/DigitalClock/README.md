@@ -1,1 +1,3 @@
-A simple beautiful digital clock with a customizable quote.
+A beautiful digital clock with a customizable quote.
+
+![Screenshot](../fig/Digital Clock.png)
